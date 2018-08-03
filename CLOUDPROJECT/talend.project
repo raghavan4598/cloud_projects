@@ -361,4 +361,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Le1I0pbmEeiYxvE8jIxq9A" login="raghavmaddali.1357@gmail.com" firstName="maddali" lastName="raghavendar" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_s27EAJboEeibPs5T7831-w" login="raghav@gmail.com" firstName="Sai" lastName="srikanth" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_rqB2QJbsEeibPs5T7831-w" login="Trigger-Runner" type="DI"/>
 </xmi:XMI>
